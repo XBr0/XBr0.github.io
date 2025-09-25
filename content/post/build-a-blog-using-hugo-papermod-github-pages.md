@@ -1,9 +1,11 @@
 +++
-title = 'Hugo + PaperMod + Github Pages 搭建一个完善的个人博客(以 Windows11 为例)'
-date = 2024-08-04T03:25:53+08:00
+title = '【转载】Hugo + PaperMod + Github Pages 搭建一个完善的个人博客(以 Windows11 为例)'
+date = 2025-09-26T03:25:53+08:00
 categories = ["通用技术"]
-tags = ["博客搭建", "Bilibili"]
+tags = ["博客搭建"]
 +++
+
+**本文转载自 [SonnyCalcr] 的文章 [《Hugo + PaperMod + Github Pages 搭建一个完善的个人博客(以 Windows11 为例)》](https://sonnycalcr.github.io/posts/build-a-blog-using-hugo-papermod-github-pages/)。**
 
 ## 前言
 
