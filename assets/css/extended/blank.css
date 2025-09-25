@@ -65,13 +65,13 @@ code {
 
 .win11 {
   .medium-zoom-image {
-    cursor: url(../../static/cursors/zoom-in.svg), default !important;
+    cursor: url(../../../static/cursors/zoom-in.svg), default !important;
   }
   .medium-zoom--opened .medium-zoom-overlay {
-    cursor: url(../../static/cursors/zoom-out.svg), default !important;
+    cursor: url(../../../static/cursors/zoom-out.svg), default !important;
   }
   .medium-zoom-image--opened {
-    cursor: url(../../static/cursors/zoom-out.svg), default !important;
+    cursor: url(../../../static/cursors/zoom-out.svg), default !important;
   }
 }
 
