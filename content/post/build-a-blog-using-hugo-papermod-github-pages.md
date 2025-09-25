@@ -1,11 +1,15 @@
 +++
 title = '【转载】Hugo + PaperMod + Github Pages 搭建一个完善的个人博客(以 Windows11 为例)'
-date = 2025-09-26T03:25:53+08:00
+date = 2025-09-24T03:25:53+08:00
 categories = ["通用技术"]
 tags = ["博客搭建"]
 +++
 
-**本文转载自 [SonnyCalcr] 的文章 [《Hugo + PaperMod + Github Pages 搭建一个完善的个人博客(以 Windows11 为例)》](https://sonnycalcr.github.io/posts/build-a-blog-using-hugo-papermod-github-pages/)。**
+> **转载声明**
+>
+> - **原文作者：** [SonnyCalcr](https://github.com/sonnycalcr)
+> - **原文链接：** [Hugo + PaperMod + Github Pages 搭建一个完善的个人博客(以 Windows11 为例)](https://sonnycalcr.github.io/posts/build-a-blog-using-hugo-papermod-github-pages/)
+> - **版权声明：** 本文转载自网络文章，转载目的仅为个人收藏与知识分享。若存在任何侵权问题，请随时与我联系，我会立即处理。如果您觉得这篇文章及相关项目对您有所帮助，不妨前往项目地址为原作者点个 star ，以表支持与鼓励 。
 
 ## 前言
 
