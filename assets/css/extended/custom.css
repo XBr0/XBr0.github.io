@@ -1,4 +1,0 @@
-/* 减小首页 "Hey Guys" 部分下方的外边距 */
-.home .first-entry.home-info {
-    min-height: auto;                /* 重置最小高度，这是解决问题的关键！ */
-}
