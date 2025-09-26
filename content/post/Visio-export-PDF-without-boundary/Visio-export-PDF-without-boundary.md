@@ -1,7 +1,8 @@
 ---
 title: "【转载】Visio导出无边框无白边PDF"
 date: 2025-09-26T10:33:26+08:00
-draft: true
+categories = ["Visio"]
+tags = ["Visio"]
 ---
 > **转载声明**
 >
