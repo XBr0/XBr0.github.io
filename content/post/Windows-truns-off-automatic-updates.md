@@ -2,8 +2,11 @@
 title: "Windows禁止/恢复系统自动更新"
 date: 2025-09-26T14:54:44+08:00
 categories: ["Windows"]
-tags: ["Windows"]
+tags: ["Windows","系统更新"]
 ---
+
+本文提供了两段 Windows 批处理脚本，用于一键禁止或恢复系统的自动更新功能，解决了 Windows 强制更新带来的困扰。
+
 ### Win禁止更新系统
 禁止更新系统.bat
 ```powershell
