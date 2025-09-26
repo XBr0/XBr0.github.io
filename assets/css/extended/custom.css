@@ -2,3 +2,9 @@
 .home .profile {
     margin-bottom: 2rem; /* 你可以调整这个数值，比如 2rem, 30px, 等等 */
 }
+/* 如果上面的代码效果不明显，可能是因为容器有一个最小高度设置。
+  可以尝试添加下面这行代码来重置它。
+*/
+.home .main {
+    min-height: 0;
+}
