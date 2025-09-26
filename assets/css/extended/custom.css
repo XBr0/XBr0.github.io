@@ -1,0 +1,4 @@
+/* 减小首页 "Hey Guys" 部分下方的外边距 */
+.home .profile {
+    margin-bottom: 2rem; /* 你可以调整这个数值，比如 2rem, 30px, 等等 */
+}
