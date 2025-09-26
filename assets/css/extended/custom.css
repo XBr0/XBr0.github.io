@@ -1,9 +1,4 @@
 /* 减小首页 "Hey Guys" 部分下方的外边距 */
 .home .first-entry.home-info {
-    margin-bottom: 2rem !important; /* 你可以调整这个数值，比如 30px */
-}
-
-/* main 容器的最小高度规则仍然可能有效，保留它 */
-.home .main {
-    min-height: 0 !important;
+    min-height: auto;                /* 重置最小高度，这是解决问题的关键！ */
 }
