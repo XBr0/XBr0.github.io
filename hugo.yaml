@@ -100,6 +100,10 @@ params:
     safari_pinned_tab: "favicon.png"
     disableHLJS: true
 
+  # 不蒜子网站访问统计
+  busuanzi:
+    enable: true # 是否启动Busuanzi统计
+    
   # 评论的设置
   giscus:
     repo: "XBr0/XBr0.github.io"
