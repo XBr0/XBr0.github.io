@@ -5,13 +5,16 @@ url: "/about/"
 summary: about
 ---
 
-## 正在加载中...
+## 关于本站
 
-```powershell
-# hugo版本
-hugo_0.150.1_linux-amd64.deb
-https://github.com/gohugoio/hugo
-# PaperMod
-https://github.com/adityatelange/hugo-PaperMod
-git clone https://github.com/adityatelange/hugo-PaperMod.git
-```
+本站基于以下优秀的开源项目构建：
+
+* **静态网站生成器 (Generator)**
+    * **Hugo**: `v0.150.1`
+    * **源码**: [github.com/gohugoio/hugo](https://github.com/gohugoio/hugo)
+
+* **主题 (Theme)**
+    * **PaperMod**: `v8.0-38-g8e06a8a`
+    * **源码**: [github.com/adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+
+感谢这些项目的开发者们。
