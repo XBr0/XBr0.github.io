@@ -11,6 +11,8 @@ tags: ["博客搭建"]
 > - **原文链接：** [Hugo PaperMod主题添加不蒜子Busuanzi浏览统计](https://0x4b404ec.github.io/posts/hugo-papermod%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E4%B8%8D%E8%92%9C%E5%AD%90busuanzi%E6%B5%8F%E8%A7%88%E7%BB%9F%E8%AE%A1/)
 > - **版权声明：** 本文转载自网络文章，转载目的仅为个人收藏与知识分享。若存在任何侵权问题，请随时与我联系，我会立即处理。如果您觉得这篇文章及相关项目对您有所帮助，不妨前往项目地址为原作者点个 star ，以表支持与鼓励 。
 
+**原文在footer.html那里缺少了描述，本文进行了补充**
+
 # 不蒜子Busuanzi浏览统计
 
 > [Busuanzi](https://busuanzi.ibruce.info/)
