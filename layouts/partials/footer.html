@@ -13,24 +13,24 @@
         {{ . | markdownify }}
         {{- print " · "}}
     {{- end }}
-
-    {{- if .Site.Params.busuanzi.enable -}}
-    <span class="busuanzi-footer">
-        <span id="busuanzi_container_site_pv">
-            · 本站总访问量 <span id="busuanzi_value_site_pv"></span> 次
-        </span>
-        <span id="busuanzi_container_site_uv">
-            · 本站访客数 <span id="busuanzi_value_site_uv"></span> 人次
-        </span>
-    </span>
-    {{- end }}
-    
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
 </footer>
+{{- end }}
+
+{{- if .Site.Params.busuanzi.enable -}}
+<div class="busuanzi-footer" style="text-align: center; font-size: 0.8em; color: var(--secondary);">
+    <span id="busuanzi_container_site_pv">
+        本站总访问量 <span id="busuanzi_value_site_pv"></span> 次
+    </span>
+    <span style="margin: 0 5px;">·</span>
+    <span id="busuanzi_container_site_uv">
+        本站访客数 <span id="busuanzi_value_site_uv"></span> 人次
+    </span>
+</div>
 {{- end }}
 
 {{- if (not site.Params.disableScrollToTop) }}
