@@ -1,7 +1,7 @@
 ---
 title: "【转载】Hugo PaperMod主题添加不蒜子Busuanzi浏览统计"
 date: 2025-09-28T21:57:09+08:00
-categories: ["通用技术"]
+categories: ["博客搭建"]
 tags: ["博客搭建"]
 ---
 
