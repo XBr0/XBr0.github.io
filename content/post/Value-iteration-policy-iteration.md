@@ -4,13 +4,6 @@ date: 2025-11-22T15:21:44+08:00
 categories: ["Reinforcement Learning"]
 tags: ["Value iteration", "Policy iteration"]
 ---
----
-title: "值迭代与策略迭代"
-date: 2025-11-22T15:21:44+08:00
-categories: ["Reinforcement Learning"]
-tags: ["Value iteration", "Policy iteration"]
-
----
 
 ## 值迭代和策略迭代
 
