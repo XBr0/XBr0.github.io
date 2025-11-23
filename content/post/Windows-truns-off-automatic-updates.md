@@ -60,7 +60,7 @@ echo 正在通过注册表强化禁用策略...
 echo.
 
 :: 添加注册表项以禁止自动更新
-reg add "HKEY_LOCAL_MACHINE/SOFTWARE/Policies/Microsoft/Windows/WindowsUpdate/AU" /v NoAutoUpdate /t REG_DWORD /d 1 /f
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v NoAutoUpdate /t REG_DWORD /d 1 /f
 
 echo.
 echo =======================================================
