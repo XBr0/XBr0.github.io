@@ -5,8 +5,6 @@ categories: ["Docker"]
 tags: ["gitea"]
 ---
 
-# Docker版 Gitea 部署解决 ROOT_URL 警告及配置详解
-
 ## 1. 问题描述
 
 在使用 Docker 部署 Gitea 后，进入管理页面时可能会在顶部看到如下红色警告提示：
