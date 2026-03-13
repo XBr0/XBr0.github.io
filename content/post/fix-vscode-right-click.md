@@ -39,7 +39,7 @@ Windows Registry Editor Version 5.00
 @="使用VSCode打开"
 "Icon"="D:\\001Software\\015MicrosoftVSCode\\Code.exe"
 [HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode\command]
-@="\"D:\\001Software\\015MicrosoftVSCode\\Code.exe\" \"%V\""
+@="\"D:\\001Software\\015MicrosoftVSCode\\Code.exe\" \"%W\""
 ```
 
 **② 把路径改成你自己的 `Code.exe` 路径**（注意 `\` 要写成 `\\`）
