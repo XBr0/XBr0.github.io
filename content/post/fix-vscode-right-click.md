@@ -1,5 +1,5 @@
 ---
-title: "修复 Windows 右键菜单"使用 VS Code 打开"消失的问题"
+title: "修复 Windows 右键菜单「使用 VS Code 打开」消失的问题"
 date: 2026-03-13T21:01:08+08:00
 categories: ["Windows"]
 tags: ["vscode"]
