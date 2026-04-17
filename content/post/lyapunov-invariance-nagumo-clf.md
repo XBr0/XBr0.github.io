@@ -1,5 +1,5 @@
 ---
-title: "Lyapunov Theory, Invariance Principle, Nagumo’s Theory, Control Lyapunov Function
+title: "Lyapunov Theory, Invariance Principle, Nagumo’s Theory, Control Lyapunov Function"
 date: 2026-04-17T13:22:20+08:00
 categories: ["Control Theory"]
 tags: ["Lyapunov Theory"]
