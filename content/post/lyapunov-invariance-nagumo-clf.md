@@ -5,7 +5,6 @@ categories: ["Control Theory"]
 tags: ["Lyapunov Theory"]
 ---
 本文围绕控制理论中几个彼此紧密相关的核心概念展开：Lyapunov 理论、不变性原理（Invariance Principle）、Nagumo 理论以及控制李雅普诺夫函数（Control Lyapunov Function, CLF）。
-## Lyapunov Theory, Invariance Principle, Nagumo’s Theory, Control Lyapunov Function
 
 ### 1. Lyapunov Theory
 
